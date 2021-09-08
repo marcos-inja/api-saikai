@@ -1,4 +1,6 @@
 # api-saikai
+
+**Passar tudo isso para as issues**
 Api não oficial do site saikaiscan.
 Objetivos:
 - Criar modelos de exemplos usando o Jupyter Notebook.
