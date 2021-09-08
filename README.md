@@ -5,3 +5,4 @@ Objetivos:
 - Criar formas de pegar os dados de cada novel.
 - Passar as informações para um formato padrão.
 - Usar o o micro-framework Flask para criar a api em si.
+- Buscar novas formas de fazer o webscreping
