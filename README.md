@@ -1,4 +1,4 @@
-# api-saikai
+# API Saikai
 **Passar tudo isso para as issues**
 Api não oficial do site saikaiscan.
 ## Motivação:
