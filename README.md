@@ -10,3 +10,10 @@ Antes de tudo, quero apenas usar esse projeto para programar melhor, e aprender 
 - Usar o o micro-framework Flask para criar a api em si.
 - Buscar novas formas de fazer o webscreping.
 - Analizar mais paginas, para ver as diferenças entre elas.
+## Para fazer:
+- [ ] Coletar sinopse.
+- [ ] Coletar tags.
+- [ ] Coletar Status (andamento/concluido).
+- [ ] Numero de capitulos.
+- [ ] Tradutor.
+- [ ] Avaliação.
