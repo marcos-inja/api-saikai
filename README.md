@@ -1,4 +1,5 @@
 # API Saikai
+Essa aplicação vai fazer a coleta dependendo do que for passado na url da **api** 
 **Passar tudo isso para as issues**
 Api não oficial do site saikaiscan.
 ## Motivação:
