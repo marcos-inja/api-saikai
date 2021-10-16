@@ -14,7 +14,7 @@ Antes de tudo, quero apenas usar esse projeto para programar melhor, e aprender 
     cd src; python3 main.py
     ```
 - Acesse a url:
-> O nome passado por parametro deve ser o mesmo que esta na url do site da saikai veja [*aqui*](https://saikaiscan.com.br/)
+> O nome passado por parametro, deve ser o mesmo que esta na url do site da saikai. Veja [*aqui*](https://saikaiscan.com.br/)
 
 ```sh
 your_localhost:5000/info_novel/name_of_novel
