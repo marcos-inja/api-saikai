@@ -50,6 +50,22 @@ your_localhost:5000/info_novel/name_of_novel
 }
 
 ```
+### Dicionario dos dados:
+|Nome|Descrição|
+|-|-|
+|image|Link com a imagem da obra|
+|name_of_novel| Nome da novel|
+|initals|Sigla|
+|genre_of_novel| Gênero (ação, aventura...)|
+|chapters_of_novel| Capítulos disponiveís na saikai|
+|status_of_active| O andamento da tradução/escrita da novel|
+|rated_novel| Media das notas e quantidade de avaliações|
+|original_language| Lingua original|
+|author| Autor...|
+|group| Equipe da saikai(tradutor, revisor, QC|
+|synopsis| Breve descrição da novel|
+
+
 ## Objetivos:
 - Criar modelos de exemplos usando o Jupyter Notebook.
 - Criar formas de pegar os dados de cada novel.
