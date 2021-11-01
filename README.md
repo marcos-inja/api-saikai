@@ -4,9 +4,9 @@ Api não oficial do site saikaiscan.
 Esta aplicação irá fazer a coleta das informações de determinada novel, dependendo do que for passado para a **API**.
 > Olhe o arquivo crawler.ipynb, para entender de maneira mais simples como é feito o scraping no site Saikai.
 ## Motivação:
-Antes de tudo, quero apenas usar esse projeto para programar melhor, e aprender a construir apis usando o flask. Como gosto muito de ler novels, resolvi usar o site da saikai, para pegar os dados de suas novels.
+Antes de tudo, quero apenas usar esse projeto para programar melhor, e aprender a construir **API'S** usando o flask. Como gosto muito de ler novels, resolvi usar o site da saikai, para pegar os dados de suas novels.
 ## Como usar:
-- Instale as dependencias:
+- Instale as dependências:
     ```sh
     pip install requirements.txt
     ```
@@ -27,8 +27,6 @@ your_localhost:5000/info_novel/name_of_novel
     ```
 ## Formato dos dados:
 ```json
-
-
 {
   "image": "https://s3-alpha.saikai.com.br/series/a-guerra-dos-nove-mundos-gnm.jpg",
   "name_of_novel": "A Guerra dos Nove Mundos",
